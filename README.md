@@ -10,5 +10,11 @@
 <h3>How to use this code?</h3>
 <p>If you are using this code, then ensure that the folder you have created is named 'Commands' or else your code will not work. You also need to addd your desired prefix which can cointain numbers, letter, symbols or a combination of all but ensure that it does not contain any spaces. Your prefix is totally up to you, it can even contains uppercase letters. There will also be comments on the .js files, so that you can understand and customise. </p>
 
+<h3>Creating new commands:</h3> 
+<p>If you want to create a new command, then you will need to create a new file in the `Commands` folder and name it '(name of your command).js'. For example, if you want to create a command that replies with `hi` whenever someone says '(prefix)hello`, then you will need to create a file and name it `hello.js`. In the hello.js file you need to code it to send `hi`(you can view ping.js for assistance). </p>
+
 <h3>Credits: </h3>
 <li><a href = "https://youtu.be/1KVGyUemRy0">Video</a> by <a href = "https://github.com/ImagineGamingPlay">@ImaginGamingPlay</a> -- Note that this in in v13, whereareas the above code is in v14</li>
+
+<h3>Assistance: </h3>
+<li>For more assitance, you can contact me through my discord<a href = "https://discord.gg/v6QfPKCN8Y"> server</a></li>
