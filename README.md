@@ -17,4 +17,4 @@
 <li><a href = "https://youtu.be/1KVGyUemRy0">Video</a> by <a href = "https://github.com/ImagineGamingPlay">@ImaginGamingPlay</a> -- Note that this in in v13, whereareas the above code is in v14</li>
 
 <h3>Assistance: </h3>
-<li>For more assitance, you can contact me through my discord<a href = "https://discord.gg/v6QfPKCN8Y"> server</a></li>
+<li>For more assistance, you can contact me through my discord<a href = "https://discord.gg/v6QfPKCN8Y"> server</a></li>
