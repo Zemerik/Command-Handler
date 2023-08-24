@@ -18,3 +18,6 @@
 
 <h3>Assistance: </h3>
 <li>For more assistance, you can contact me through my discord<a href = "https://discord.gg/v6QfPKCN8Y"> server</a></li>
+
+<h3>Links: </h3>
+<li><a href = "https://replit.com/@LuiceferYadav/Command-Handler?v=1">Replit</a></li>
