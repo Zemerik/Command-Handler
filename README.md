@@ -8,7 +8,7 @@
 <li>Dynamic Loading: Using the command handler, you can dynamically load and execute the appropriate command module without having to hardcode each individual command's logic.</li>
 
 <h3>How to use this code?</h3>
-<p>Although copy-pasting this code and naming your directory 'Commands', the command handler will most likely work. It is recommended that you understand each line of the code, as it will be helpful in future. </p>
+<p>If you are using this code, then ensure that the folder you have created is named 'Commands' or else your code will not work. You also need to addd your desired prefix which can cointain numbers, letter, symbols or a combination of all but ensure that it does not contain any spaces. Your prefix is totally up to you, it can even contains uppercase letters. There will also be comments on the .js files, so that you can understand and customise. </p>
 
 <h3>Credits: </h3>
-<p>@Imaginegamingplay</p>
+<li><a href = "https://youtu.be/1KVGyUemRy0">Video</a> by <a href = "https://github.com/ImagineGamingPlay">@ImaginGamingPlay</a> -- Note that this in in v13, whereareas the above code is in v14</li>
