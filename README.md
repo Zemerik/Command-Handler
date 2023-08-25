@@ -14,7 +14,7 @@
 <p>If you want to create a new command, then you will need to create a new file in the `Commands` folder and name it '(name of your command).js'. For example, if you want to create a command that replies with `hi` whenever someone says '(prefix)hello`, then you will need to create a file and name it `hello.js`. In the hello.js file you need to code it to send `hi`(you can view ping.js for assistance). </p>
 
 <h3>Credits: </h3>
-<li><a href = "https://youtu.be/1KVGyUemRy0">Video</a> by <a href = "https://github.com/ImagineGamingPlay">@ImaginGamingPlay</a> -- Note that this in in v13, whereareas the above code is in v14</li>
+<li><a href = "https://youtu.be/1KVGyUemRy0">Video</a> by <a href = "https://github.com/ImagineGamingPlay">@ImaginGamingPlay</a> -- Note that this is in v13, whereareas the above code is in v14</li>
 
 <h3>Assistance: </h3>
 <li>For more assistance, you can contact me through my discord<a href = "https://discord.gg/v6QfPKCN8Y"> server</a></li>
