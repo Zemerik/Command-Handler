@@ -18,7 +18,7 @@ const fs = require("fs")
 const prefix = "."//Your desired prefix here, pls ensure that it does not contain any spaces. 
 
 client.commands = new Discord.Collection();
-const commands = fs.readdirSync("./Commands").filter(file => file.endsWith('.js'))         // ^ This has to match the name of your folder name, including capitals and spaces
+const commands = fs.readdirSync("./Commands").filter(file => file.endsWith('.js'))  
 for (file of commands) {
   const commandName = file.split('.')[0]
   const command = require(`./Commands/${commandName}`)
